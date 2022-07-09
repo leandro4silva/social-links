@@ -77,7 +77,7 @@ ul li a{
     font-weight: 700;
     color: var(--backgroud-color);
     text-transform: uppercase; 
-
+    width: 100%;
     display: flex;
     align-items: center;
     justify-content: center;

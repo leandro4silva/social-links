@@ -1,7 +1,7 @@
 # Social Links
 A project to show all the user's social networks
 
-## ✔️ Tecnologias Utilizadas
+## ✔️ Technologies
 - ``HTML``
 - ``CSS``
 
